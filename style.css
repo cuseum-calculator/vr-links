@@ -1,0 +1,16 @@
+
+
+body {
+  margin: 10% 5%;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
